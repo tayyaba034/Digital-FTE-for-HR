@@ -1,6 +1,8 @@
 # ignore environment files
 .env
-.env.*
+.env.local
+# keep example file in repo
+# .env.example should be committed as a template
 # Python bytecode and caches
 __pycache__/
 *.pyc
