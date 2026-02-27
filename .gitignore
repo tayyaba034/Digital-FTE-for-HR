@@ -1,0 +1,19 @@
+# ignore environment files
+.env
+.env.*
+# Python bytecode and caches
+__pycache__/
+*.pyc
+# Local development artifacts
+*.log
+# Ignore bowjob reference (not public)
+/bowjob-reference/
+
+# Backend caches
+/backend/__pycache__/
+
+# Frontend artifacts
+/frontend/
+
+# VS Code settings
+.vscode/
