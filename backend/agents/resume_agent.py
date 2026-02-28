@@ -2,7 +2,7 @@
 agents/resume_agent.py
 Tailors the user's CV for each shortlisted job.
 ATS-optimized, keyword-aligned, section-by-section generation.
-Inspired by BowJob (https://github.com/rurahim/BowJob)
+Inspired by BowJob prompts (https://github.com/rurahim/BowJob)
 """
 import uuid
 from datetime import datetime
